@@ -1,1 +1,1 @@
-3d models for Altspace project
+3d models for Altspace project using Shane's editor
